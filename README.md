@@ -1,11 +1,14 @@
 # video-tech
-Repositorios de Videos sobre Privacity y seguridad de la Informacion.
+Repositorios de Videos sobre Privacidad en la red y seguridad de la Información.
 
-## Perículas
+## Películas
 |Título|Description|link|
 |------|-----------|----|
 |The Circle| -- | --|
 |Anon | --| --|
 
 ## Cortos
+|Título|Description|Autor|link|
+|------|-----------|----|----|
+|Remove|Cortometraje sobre la privacidad en la red|delacrew| https://www.youtube.com/watch?v=6bYLRGS3vFs|
 ## Documentales
